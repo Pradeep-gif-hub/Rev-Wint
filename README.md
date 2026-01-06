@@ -82,6 +82,7 @@ Goal:
 ## 📁 Repository Structure
 #Folder 
 
+``` bash
 ├── Easy/
 │ ├── Arrays/
 │ ├── Strings/
@@ -95,16 +96,16 @@ Goal:
 │ ├── Graphs/
 │ └── AdvancedStructures/
 └── README.md
+```
 
 
----
 
 ## 🧠 Learning Philosophy
 > **Consistency over intensity.  
 Understanding over memorization.  
 Depth over quantity.**
 
----
+
 
 ## 🚀 Outcome Expected
 - Strong command over **DSA fundamentals**

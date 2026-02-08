@@ -11,8 +11,6 @@ Node* reverse_DLL(Node* head){
 
         curr = curr->prev;
     }
-
-    // Fix head
     if(temp != nullptr)
         head = temp->prev;
 

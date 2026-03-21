@@ -11,7 +11,7 @@
 //   public:
 //     int missingNum(vector<int>& arr) {
 //         int n=arr.size();
-//         int arrsum=sumarr(arr);
+//     int arrsum=sumarr(arr);
 //         int numsum=0;
 //         for(int i=1;i<=n+1;i++){
 //             numsum+=i;
